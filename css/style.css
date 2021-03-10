@@ -34,6 +34,7 @@ body {
   margin: 0;
   padding: 0;
   color: var(--very-dark-blue);
+  background-color: var(--very-light-gray);
 }
 
 .container {
